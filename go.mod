@@ -1,3 +1,3 @@
-module github.com/akyoto/cache
+module github.com/picante-io/akyoto-cache
 
-go 1.13
+go 1.20
